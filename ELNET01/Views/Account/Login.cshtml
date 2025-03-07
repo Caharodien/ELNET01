@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud9 Suites - Login</title>
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true">
+</head>
+<body>
+
+    <div class="login-container">
+        <div class="login-image">
+            <div class="overlay">
+                <h1><span class="highlight">Cloud9</span> Suites</h1>
+            </div>
+        </div>
+        <div class="login-form">
+            <h2>Login Account</h2>
+
+            @if (ViewBag.ErrorMessage != null)
+            {
+                <p style="color: red; text-align: center;">@ViewBag.ErrorMessage</p>
+            }
+
+            <form method="post" asp-controller="Account" asp-action="Login">
+                <div class="input-group">
+                    <label for="username">Username</label>
+                    <input type="text" name="username" id="username" placeholder="Username" required>
+                </div>
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <input type="password" name="password" id="password" placeholder="8+ characters" required>
+                </div>
+                <p class="terms">By signing up you agree to <a href="#">terms and conditions</a> at Cloud 9 Suites.</p>
+                <button type="submit" class="login-btn">Login</button>
+                <p class="create-account"><a href="~/Account/Register">Create Account</a></p>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>
