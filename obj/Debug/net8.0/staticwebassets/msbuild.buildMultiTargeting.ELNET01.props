@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ELNET01.props" />
+</Project>
