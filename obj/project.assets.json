@@ -2112,23 +2112,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rambo\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\ELNET01.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\ELNET01.csproj",
       "projectName": "ELNET01",
-      "projectPath": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\ELNET01.csproj",
-      "packagesPath": "C:\\Users\\rambo\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\ELNET01.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rambo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2137,6 +2137,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

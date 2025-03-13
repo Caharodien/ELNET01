@@ -1,0 +1,109 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container layout */
+.register-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Left section (Image) */
+.register-left {
+    flex: 1;
+    background: url('/images/register-bg.jpg') no-repeat center center/cover;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .overlay h1 {
+        font-size: 36px;
+        color: white;
+    }
+
+    .overlay span {
+        color: yellow;
+    }
+
+/* Right section (Form) */
+.register-right {
+    flex: 1;
+    background: white;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+    .register-right h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+    .input-group label {
+        display: block;
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .input-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+.terms {
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+    .terms a {
+        color: #ffcc00;
+        text-decoration: none;
+    }
+
+.register-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: yellow;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+    .register-btn:hover {
+        background-color: #ffcc00;
+    }
+
+.login-link {
+    text-align: center;
+    margin-top: 10px;
+}
+
+    .login-link a {
+        color: black;
+        font-weight: bold;
+    }

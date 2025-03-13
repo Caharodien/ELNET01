@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using ELNET01.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,11 +12,6 @@ namespace ELNET01.Controllers
         {
             _logger = logger;
         }
-        public IActionResult Contact()
-        {
-            return View();
-        }
-
 
         public IActionResult Index()
         {
@@ -24,6 +19,17 @@ namespace ELNET01.Controllers
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+        // 🔹 Added the About action method
+        public IActionResult About()
         {
             return View();
         }

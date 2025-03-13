@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = "Home Page";
 }
 
 <!DOCTYPE html>
@@ -7,40 +7,128 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cloud9 Suites - Login</title>
-    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true">
+    <title>Cloud9 Suites</title>
+    <link rel="stylesheet" href="~/css/site.css">
 </head>
 <body>
 
-    <div class="login-container">
-        <div class="login-image">
-            <div class="overlay">
-                <h1><span class="highlight">Cloud9</span> Suites</h1>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <h1><span>Cloud9</span> Suites</h1>
+        <ul>
+            <li><a asp-controller="Hotels" asp-action="Index">Hotels</a></li>
+            <li><a asp-controller="Rooms" asp-action="Index">Rooms</a></li>
+            <li><a asp-controller="Home" asp-action="About">About</a></li>
+            <li><a asp-controller="Home" asp-action="Contact">Contact</a></li>
+        </ul>
+
+        
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-text">
+            <h1 style="font-size: 80px;">Forget Busy Work, Start Next Vacation</h1>
+            <p>We provide what you need to enjoy your holiday with family.</p>
+            <p>Time to make another memorable moment.</p>
+            <button class="btn">Show More</button>
+        </div>
+        <img src="~/css/images/banner.png" alt="Beach">
+    </section>
+
+    <!-- Search Bar -->
+    <section class="search-bar">
+        <div class="search-option">
+            <span class="icon">📅</span>
+            <button class="search-btn">Check Available</button>
+        </div>
+        <div class="search-option">
+            <span class="icon">👤</span>
+            <select id="guests">
+                <option value="1">Person 1</option>
+                <option value="2" selected>Person 2</option>
+                <option value="3">Person 3</option>
+                <option value="4">Person 4</option>
+            </select>
+        </div>
+        <div class="search-option">
+            <span class="icon">📍</span>
+            <button class="search-btn">Select Location</button>
+        </div>
+        <button class="btn search-main-btn" onclick="searchHotels()">Search</button>
+    </section>
+
+    <!-- Most Picked Hotels -->
+    <section class="popular-choices">
+        <h3>Most Picked</h3>
+        <div class="choices-grid">
+            <div class="choice">
+                <span class="label">₱30,800 per night</span>
+                <img src="~/css/images/violet.png">
+                <p class="text-left">Sheraton Cebu Mactan Resort, Cebu City</p>
+            </div>
+            <div class="choice">
+                <span class="label">₱15,500 per night</span>
+                <img src="~/css/images/MP2.png" alt="Solea Mactan Resort">
+                <p class="text-left">Shangri-La Mactan, Cebu City</p>
+            </div>
+            <div class="choice">
+                <span class="label">₱4,900 per night</span>
+                <img src="~/css/images/MP3.png" alt="Quo Vadis Dive Resort">
+                <p class="text-left">Solea Mactan Resort, Cebu City</p>
             </div>
         </div>
-        <div class="login-form">
-            <h2>Login Account</h2>
+    </section>
 
-            @if (ViewBag.ErrorMessage != null)
-            {
-                <p style="color: red; text-align: center;">@ViewBag.ErrorMessage</p>
-            }
-
-            <form method="post" asp-controller="Account" asp-action="Login">
-                <div class="input-group">
-                    <label for="username">Username</label>
-                    <input type="text" name="username" id="username" placeholder="Username" required>
-                </div>
-                <div class="input-group">
-                    <label for="password">Password</label>
-                    <input type="password" name="password" id="password" placeholder="8+ characters" required>
-                </div>
-                <p class="terms">By signing up you agree to <a href="#">terms and conditions</a> at Cloud 9 Suites.</p>
-                <button type="submit" class="login-btn">Login</button>
-                <p class="create-account"><a href="~/Account/Register">Create Account</a></p>
-            </form>
+    <!-- Popular Choices -->
+    <section class="popular-choices">
+        <h3>Popular Choices</h3>
+        <div class="choices-grid">
+            <div class="choice">
+                <span class="label">Popular Choice</span>
+                <img src="~/css/images/P1.png" alt="BE Resort Mactan">
+                <p class="text-left">BE Resort Mactan</p>
+            </div>
+            <div class="choice">
+                <img src="~/css/images/P2.png" alt="Solea Mactan Resort">
+                <p class="text-left">Solea Mactan Resort</p>
+            </div>
+            <div class="choice">
+                <img src="~/css/images/P3.png" alt="Quo Vadis Dive Resort">
+                <p class="text-left">Quo Vadis Dive Resort</p>
+            </div>
+            <div class="choice">
+                <img src="~/css/images/P4.png" alt="Kandaya Resort">
+                <p class="text-left">Kandaya Resort</p>
+            </div>
         </div>
-    </div>
 
+        <div class="choices-grid2">
+            <div class="choice">
+                <img src="~/css/images/P5.png" alt="Marlins Beach Resort">
+                <p class="text-left">Marlins Beach Resort</p>
+            </div>
+            <div class="choice">
+                <img src="~/css/images/P6.png" alt="Amihan Beach Cabanas">
+                <p class="text-left">Amihan Beach Cabanas</p>
+            </div>
+            <div class="choice">
+                <img src="~/css/images/P7.png" alt="Hippocampus Beach Resort">
+                <p class="text-left">Hippocampus Beach Resort</p>
+            </div>
+            <div class="choice">
+                <span class="label">Popular Choice</span>
+                <img src="~/css/images/P8.png" alt="Fantasy Lodge">
+                <p class="text-left">Fantasy Lodge</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Cloud9 Suites. All rights reserved. Amama, Auman, Cudillo, Mahawan</p>
+    </footer>
+
+    <script src="~/js/script.js"></script>
 </body>
 </html>

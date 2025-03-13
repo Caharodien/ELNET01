@@ -1,0 +1,146 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.about-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+    margin: 20px 0;
+    font-size: 14px;
+}
+
+    .breadcrumbs a {
+        color: #ffcc00;
+        text-decoration: none;
+    }
+
+/* Title and Location */
+.hotel-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffcc00;
+    text-align: center;
+}
+
+.hotel-location {
+    text-align: center;
+    color: gray;
+}
+
+/* Image Gallery */
+.image-gallery {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.main-image {
+    width: 60%;
+    border-radius: 10px;
+}
+
+.side-images {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .side-images img {
+        width: 100%;
+        border-radius: 10px;
+    }
+
+/* About Place */
+.about-place {
+    margin-top: 20px;
+}
+
+    .about-place h2 {
+        font-size: 22px;
+        color: black;
+    }
+
+    .about-place p {
+        color: gray;
+    }
+
+/* Amenities */
+.amenities {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.amenity {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: gray;
+}
+
+    .amenity img {
+        width: 20px;
+    }
+
+/* Booking Section */
+.booking-section {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .booking-section h3 {
+        font-size: 20px;
+    }
+
+.price {
+    font-size: 24px;
+    color: #ffcc00;
+}
+
+.book-now {
+    background: yellow;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Treasure to Choose */
+.treasures {
+    margin-top: 40px;
+}
+
+    .treasures h2 {
+        font-size: 22px;
+    }
+
+.options {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.option {
+    padding: 10px;
+    background: lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .option.active {
+        background: yellow;
+    }

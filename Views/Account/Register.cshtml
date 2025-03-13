@@ -1,0 +1,45 @@
+@{
+    ViewData["Title"] = "Register";
+}
+
+<link rel="stylesheet" href="~/css/Register.css" />
+
+<div class="register-container">
+    <div class="register-left">
+        <div class="overlay">
+            <h1>Cloud9 <span>Suites</span></h1>
+        </div>
+    </div>
+    <div class="register-right">
+        <h2>REGISTER</h2>
+        <form asp-action="Register" method="post">
+            <div class="input-group">
+                <label>Name</label>
+                <input type="text" name="Name" placeholder="Enter your name" required />
+            </div>
+            <div class="input-group">
+                <label>Email</label>
+                <input type="email" name="Email" placeholder="name@gmail.com" required />
+            </div>
+            <div class="input-group">
+                <label>Phone No</label>
+                <input type="text" name="PhoneNo" placeholder="With Country Code" required />
+            </div>
+            <div class="input-group">
+                <label>Country</label>
+                <input type="text" name="Country" placeholder="Country Name" required />
+            </div>
+            <div class="input-group">
+                <label>Username</label>
+                <input type="text" name="Username" placeholder="Username" required />
+            </div>
+            <div class="input-group">
+                <label>Password</label>
+                <input type="password" name="Password" placeholder="6+ characters" required />
+            </div>
+            <p class="terms">By signing up you agree to <a href="#">terms and conditions</a>.</p>
+            <button type="submit" class="register-btn">Register</button>
+        </form>
+        <p class="login-link">Already have an account? <a href="/Home/Index">Login</a></p>
+    </div>
+</div>

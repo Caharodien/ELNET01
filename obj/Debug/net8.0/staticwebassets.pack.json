@@ -1,315 +1,323 @@
 {
   "Files": [
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ELNET01.bundle.scp.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ELNET01.bundle.scp.css",
       "PackagePath": "staticwebassets\\ELNET01.wwiod7xj6u.bundle.scp.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\MP2.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\MP2.png",
       "PackagePath": "staticwebassets\\css\\images\\MP2.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\MP3.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\MP3.png",
       "PackagePath": "staticwebassets\\css\\images\\MP3.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P1.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P1.png",
       "PackagePath": "staticwebassets\\css\\images\\P1.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P2.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P2.png",
       "PackagePath": "staticwebassets\\css\\images\\P2.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P3.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P3.png",
       "PackagePath": "staticwebassets\\css\\images\\P3.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P4.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P4.png",
       "PackagePath": "staticwebassets\\css\\images\\P4.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P5.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P5.png",
       "PackagePath": "staticwebassets\\css\\images\\P5.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P6.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P6.png",
       "PackagePath": "staticwebassets\\css\\images\\P6.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P7.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P7.png",
       "PackagePath": "staticwebassets\\css\\images\\P7.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\P8.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\P8.png",
       "PackagePath": "staticwebassets\\css\\images\\P8.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\banner.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\banner.png",
       "PackagePath": "staticwebassets\\css\\images\\banner.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\cebu1.jpg",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\cebu1.jpg",
       "PackagePath": "staticwebassets\\css\\images\\cebu1.jpg"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\cebu2.jpg",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\cebu2.jpg",
       "PackagePath": "staticwebassets\\css\\images\\cebu2.jpg"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\cebu3.webp",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\cebu3.webp",
       "PackagePath": "staticwebassets\\css\\images\\cebu3.webp"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\cebu4.jpg",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\cebu4.jpg",
       "PackagePath": "staticwebassets\\css\\images\\cebu4.jpg"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\images\\violet.png",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\images\\violet.png",
       "PackagePath": "staticwebassets\\css\\images\\violet.png"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\login.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\ELNET01\\ELNET01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Caharodien\\ELNET01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
